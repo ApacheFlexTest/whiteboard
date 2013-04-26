@@ -8,3 +8,6 @@ Update 3
 
 
 Testing commit email hook
+
+
+Testing email from author
